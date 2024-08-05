@@ -1,3 +1,5 @@
+This project demonstrates how to use middleware in a Next.js. Middleware allows you to handle requests before they reach your route handlers, enabling tasks such as authentication, logging, and redirection.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
